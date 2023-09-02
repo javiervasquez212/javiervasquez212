@@ -1,7 +1,10 @@
 
 # 💫 About Me:
-I am a software developer with experience in a variety of projects and technologies. Strong skills in data structures, object-oriented programming, and SOLID principles. I also have soft and leadership skills developed through participation in student organizations. Motivated by challenges and eager to learn and grow professionally.
+My name is Javier Vásquez Monsalve.
 
+I am presently enrolled as a student at the Technological Institute of Costa Rica. In addition to my academic pursuits, I am actively engaged in the backend development of a research project affiliated with the Technological Institute's School of Business Administration.
+
+Skills: Proficient in data structures, object-oriented programming, and the application of SOLID principles. Additionally, I possess well-honed soft skills and leadership abilities, cultivated through active involvement in various student organizations. I am driven by a passion for tackling challenges and am enthusiastic about continuous professional development and growth.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/javiervasquezm) 
