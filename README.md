@@ -11,5 +11,5 @@ I am a software developer with experience in a variety of projects and technolog
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javiervasquez212&theme=dark)](https://git.io/streak-stats)
 
