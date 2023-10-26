@@ -14,9 +14,5 @@ Skills: Proficient in data structures, object-oriented programming, and the appl
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javiervasquez212&theme=dark)](https://git.io/streak-stats)
-
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=javiervasquez212&theme=dark)](https://git.io/streak-stats)
 
